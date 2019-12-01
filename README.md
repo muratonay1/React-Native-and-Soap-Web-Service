@@ -65,6 +65,12 @@ https://youtu.be/0JO-2VE8umE
 
 
 
+-Web Service Ekran Görüntüsü
+
+
+
+![servis](https://user-images.githubusercontent.com/34923740/69918582-feb90b80-1484-11ea-8760-3d6f5ff5bfcb.PNG)
+
 
 
 
