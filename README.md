@@ -31,8 +31,8 @@ React-Native ve Web Service kullanarak yapmış olduğum ilan verme uygulaması
 web servisi kullanan tüm fonksiyonlar için geçerli olacaktır.
 
 Örnek olarak uygulamanın video görüntü linkini aşağıda paylaşıyorum.
+# YOUTBE LINK https://youtu.be/0JO-2VE8umE
 
-https://youtu.be/0JO-2VE8umE
 
 
 Örnek resimlerini aşağıda paylaşıyorum.
