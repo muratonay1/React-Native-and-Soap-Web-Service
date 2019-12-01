@@ -1,0 +1,22 @@
+LİFE ASSİSTANT 
+
+Kurulması Gereken Eklentiler:
+
+
+-> react-native elements
+-> react-native-phone-call
+->react-native-router-flux
+->react-native-star-view
+->react-native-vector-icons
+
+Bu rnpm font tipleri için gerekli
+
+"rnpm": {
+    "assets": [
+      "./Components/Fonts/"
+    ]
+  }
+
+
+
+  
