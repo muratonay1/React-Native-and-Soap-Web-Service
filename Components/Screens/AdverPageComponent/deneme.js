@@ -2,7 +2,7 @@ import React,{Component} from 'react';
 import {View,Text,TouchableOpacity,StyleSheet,FlatList,Dimensions,Alert} from 'react-native';
 var ServiceJsonObject;
 function Get_ilan() {
-    fetch("http://192.168.1.4:51533/MuratWebService.asmx/ReturnPeople",{
+    fetch("http://ip:port/MuratWebService.asmx/ReturnPeople",{
       method:'POST',
       headers:{
         Accept: 'application/json',
